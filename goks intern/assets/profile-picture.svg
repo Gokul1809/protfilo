@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 580" role="img" aria-labelledby="title desc">
+  <title id="title">Illustrated profile picture for Gokul G</title>
+  <desc id="desc">A friendly illustrated portrait with initials GG.</desc>
+  <rect width="520" height="580" rx="34" fill="#ffffff"/>
+  <path d="M42 424c32 76 113 118 206 118 102 0 190-55 222-143 14-39 11-88-14-119-35-44-103-32-149-64-42-28-55-89-108-104-49-14-101 20-126 63-28 48-22 108-38 161-10 34-12 62 7 88Z" fill="#cceadf"/>
+  <circle cx="260" cy="206" r="92" fill="#f2c46d"/>
+  <path d="M170 192c8-60 48-100 96-100 66 0 103 50 99 106-36-15-85-18-122-8-24 7-47 8-73 2Z" fill="#17202a"/>
+  <path d="M164 230c-15-4-31 6-31 27 0 22 18 38 41 36l-10-63Zm192 0c15-4 31 6 31 27 0 22-18 38-41 36l10-63Z" fill="#f2c46d"/>
+  <path d="M174 202c0 83 36 147 86 147s86-64 86-147c0-18-2-36-7-51-42 22-97 24-157 7-5 14-8 29-8 44Z" fill="#ffd79b"/>
+  <path d="M210 242c12-11 31-11 43 0M267 242c12-11 31-11 43 0" fill="none" stroke="#17202a" stroke-width="10" stroke-linecap="round"/>
+  <path d="M236 298c15 13 34 13 49 0" fill="none" stroke="#17202a" stroke-width="10" stroke-linecap="round"/>
+  <path d="M141 472c17-75 63-115 119-115s102 40 119 115H141Z" fill="#14756f"/>
+  <path d="M201 371l59 66 59-66c-17-10-36-15-59-15s-42 5-59 15Z" fill="#ffffff"/>
+  <rect x="65" y="444" width="390" height="78" rx="18" fill="#17202a"/>
+  <text x="260" y="497" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="48" font-weight="800" fill="#ffffff">GG</text>
+</svg>
